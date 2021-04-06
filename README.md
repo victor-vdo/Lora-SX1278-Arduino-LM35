@@ -1,9 +1,11 @@
 ### Welcome to the Lora-SX1278-Arduino-LM35 wiki!
 <p><h5>Article Link: <a href="https://github.com/victor-vdo/Lora-SX1278-Arduino-LM35/blob/master/TCIC-2017-2-LoRa_Tecnologia_Emergente_para_Internet_das_Coisas_.pdf">Here</a></h5></p>
 <p><h3>Components:</h3></p>
-<img align="left" src="https://i.imgur.com/WuPp0P8.jpg"  height = "200" width = "200">
-<img align="center" src="https://i.imgur.com/PV8fmj6.jpg"  height = "200" width = "200">
-<img align="right" src="https://i.imgur.com/FS1wHs9.jpg"  height = "200" width = "200">
+<div>
+      <img align="left" src="https://i.imgur.com/WuPp0P8.jpg"  height = "200" width = "200">
+      <img align="center" src="https://i.imgur.com/PV8fmj6.jpg"  height = "200" width = "200">
+      <img align="right" src="https://i.imgur.com/FS1wHs9.jpg"  height = "200" width = "200">
+</div>
 
 <p><h3>Connections:</h3></p>
 
