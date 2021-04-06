@@ -3,15 +3,15 @@
 <p><h3>Components:</h3></p>
 <div>
       <figure>
-          <img align="left" src="https://i.imgur.com/WuPp0P8.jpg"  height = "200" width = "200" title="Arduino Uno">
+          <img align="left" src="https://i.imgur.com/WuPp0P8.jpg"  height = "180" width = "180" title="Arduino Uno">
           <figcaption><b>Arduino Uno</b></figcaption>  
       </figure>  
       <figure>
-          <img align="center" src="https://i.imgur.com/PV8fmj6.jpg"  height = "200" width = "200" title="SX 1278 module">
+          <img align="center" src="https://i.imgur.com/PV8fmj6.jpg"  height = "180" width = "180" title="SX 1278 module">
           <figcaption><b>SX 1278 module</b></figcaption>  
       </figure>   
       <figure>
-          <img align="center" src="https://i.imgur.com/FS1wHs9.jpg"  height = "200" width = "200" title="LM 35 sensor">
+          <img align="center" src="https://i.imgur.com/FS1wHs9.jpg"  height = "180" width = "180" title="LM 35 sensor">
           <figcaption><b>LM 35 sensor</b></figcaption>  
       </figure>      
 </div>
