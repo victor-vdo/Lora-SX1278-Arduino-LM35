@@ -4,15 +4,15 @@
 <div>
       <figure>
           <img align="left" src="https://i.imgur.com/WuPp0P8.jpg"  height = "200" width = "200" title="Arduino Uno">
-          <figcaption>Arduino Uno</figcaption>  
+          <figcaption><b>Arduino Uno</b></figcaption>  
       </figure>  
       <figure>
           <img align="center" src="https://i.imgur.com/PV8fmj6.jpg"  height = "200" width = "200" title="SX 1278 module">
-          <figcaption>SX 1278 module</figcaption>  
+          <figcaption><b>SX 1278 module</b></figcaption>  
       </figure>   
       <figure>
           <img align="center" src="https://i.imgur.com/FS1wHs9.jpg"  height = "200" width = "200" title="LM 35 sensor">
-          <figcaption>LM 35 sensor</figcaption>  
+          <figcaption><b>LM 35 sensor</b></figcaption>  
       </figure>      
 </div>
 
