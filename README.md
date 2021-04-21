@@ -2,13 +2,6 @@
 <p><h5>Article Link: <a href="https://github.com/victor-vdo/Lora-SX1278-Arduino-LM35/blob/master/TCIC-2017-2-LoRa_Tecnologia_Emergente_para_Internet_das_Coisas_.pdf">Here</a></h5></p>
 <p><h3>Components:</h3></p>
 <div>
-   <p>
-       
-       
-      
-   </p>
-</div>
-<div>
 <p>
 <ul style="display:inline;">
        <li style="float:left;">
@@ -17,13 +10,13 @@
             <img align="left" src="https://i.imgur.com/WuPp0P8.jpg"  height = "180" width = "180" title="Arduino Uno">
          </figure> 
        </li> 
-       <li style="margin-left: 30px; float:left;">
+       <li style="margin-left: 30px; float:left;"></br>
           <b>SX 1278 module</b></br>
           <figure>
            <img align="center" src="https://i.imgur.com/PV8fmj6.jpg"  height = "180" width = "180" title="SX 1278 module">
           </figure> 
        </li>   
-       <li style="margin-left: 30px; float:left;">
+       <li style="margin-left: 30px; float:left;"></br>
          <b>LM 35 sensor</b></br>
          <figure>
           <img align="center" src="https://i.imgur.com/FS1wHs9.jpg"  height = "180" width = "180" title="LM 35 sensor">
