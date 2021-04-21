@@ -11,15 +11,15 @@
 <div>
 <p>
       <ul>
-       <li><b>Arduino Uno</b></li>  
+       <li style="float:left;"><b>Arduino Uno</b></li>  
          <figure>
           <img align="left" src="https://i.imgur.com/WuPp0P8.jpg"  height = "180" width = "180" title="Arduino Uno">
       </figure> 
-       <li><b>SX 1278 module</b></li>
+       <li style="margin-left: 30px; float:left;"><b>SX 1278 module</b></li>
           <figure>
           <img align="center" src="https://i.imgur.com/PV8fmj6.jpg"  height = "180" width = "180" title="SX 1278 module">
       </figure> 
-       <li><b>LM 35 sensor</b></li> 
+       <li style="margin-left: 30px; float:left;"><b>LM 35 sensor</b></li> 
            <figure>
           <img align="center" src="https://i.imgur.com/FS1wHs9.jpg"  height = "180" width = "180" title="LM 35 sensor">
       </figure> 
