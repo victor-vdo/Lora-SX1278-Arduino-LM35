@@ -3,23 +3,26 @@
 <p><h3>Components:</h3></p>
 <div>
    <p>
-      <figure>
-          <img align="left" src="https://i.imgur.com/WuPp0P8.jpg"  height = "180" width = "180" title="Arduino Uno">
-      </figure>  
-      <figure>
-          <img align="center" src="https://i.imgur.com/PV8fmj6.jpg"  height = "180" width = "180" title="SX 1278 module">
-      </figure>   
-      <figure>
-          <img align="center" src="https://i.imgur.com/FS1wHs9.jpg"  height = "180" width = "180" title="LM 35 sensor">
-      </figure>   
+       
+       
+      
    </p>
 </div>
 <div>
 <p>
       <ul>
        <li><b>Arduino Uno</b></li>  
+         <figure>
+          <img align="left" src="https://i.imgur.com/WuPp0P8.jpg"  height = "180" width = "180" title="Arduino Uno">
+      </figure> 
        <li><b>SX 1278 module</b></li>
+          <figure>
+          <img align="center" src="https://i.imgur.com/PV8fmj6.jpg"  height = "180" width = "180" title="SX 1278 module">
+      </figure> 
        <li><b>LM 35 sensor</b></li> 
+           <figure>
+          <img align="center" src="https://i.imgur.com/FS1wHs9.jpg"  height = "180" width = "180" title="LM 35 sensor">
+      </figure> 
       </ul>
 </p>
 </div>
