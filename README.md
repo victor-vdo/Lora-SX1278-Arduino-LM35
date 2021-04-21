@@ -10,20 +10,26 @@
 </div>
 <div>
 <p>
-      <ul>
-       <li style="float:left;"><b>Arduino Uno</b></li>  
+<ul style="display:inline;">
+       <li style="float:left;">
+          <b>Arduino Uno</b> </br>
          <figure>
-          <img align="left" src="https://i.imgur.com/WuPp0P8.jpg"  height = "180" width = "180" title="Arduino Uno">
-      </figure> 
-       <li style="margin-left: 30px; float:left;"><b>SX 1278 module</b></li>
+            <img align="left" src="https://i.imgur.com/WuPp0P8.jpg"  height = "180" width = "180" title="Arduino Uno">
+         </figure> 
+       </li> 
+       <li style="margin-left: 30px; float:left;">
+          <b>SX 1278 module</b></br>
           <figure>
-          <img align="center" src="https://i.imgur.com/PV8fmj6.jpg"  height = "180" width = "180" title="SX 1278 module">
-      </figure> 
-       <li style="margin-left: 30px; float:left;"><b>LM 35 sensor</b></li> 
-           <figure>
+           <img align="center" src="https://i.imgur.com/PV8fmj6.jpg"  height = "180" width = "180" title="SX 1278 module">
+          </figure> 
+       </li>   
+       <li style="margin-left: 30px; float:left;">
+         <b>LM 35 sensor</b></br>
+         <figure>
           <img align="center" src="https://i.imgur.com/FS1wHs9.jpg"  height = "180" width = "180" title="LM 35 sensor">
-      </figure> 
-      </ul>
+         </figure>   
+       </li> 
+</ul>      
 </p>
 </div>
 
