@@ -4,17 +4,18 @@
 <div>
       <figure>
           <img align="left" src="https://i.imgur.com/WuPp0P8.jpg"  height = "180" width = "180" title="Arduino Uno">
-          <figcaption><b>Arduino Uno</b></figcaption>  
+            <footer><b>Arduino Uno</b></footer>   
       </figure>  
       <figure>
           <img align="center" src="https://i.imgur.com/PV8fmj6.jpg"  height = "180" width = "180" title="SX 1278 module">
-          <figcaption><b>SX 1278 module</b></figcaption>  
+          <footer><b>SX 1278 module</b></footer>
       </figure>   
       <figure>
           <img align="center" src="https://i.imgur.com/FS1wHs9.jpg"  height = "180" width = "180" title="LM 35 sensor">
-          <figcaption><b>LM 35 sensor</b></figcaption>  
+          <footer><b>LM 35 sensor</b></footer>  
       </figure>      
 </div>
+
 
 <p><h3>Connections:</h3></p>
 
